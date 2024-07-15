@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Track your expenses efficiently with this simple yet powerful Expense Tracker app. This README will guide you through installation, usage, and contribution guidelines.
+Track your expenses efficiently with this simple yet powerful Expense Tracker app.
 
 ## Features
 
